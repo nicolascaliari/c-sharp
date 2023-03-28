@@ -9,7 +9,7 @@ namespace primos
             bool bandera = true;
             int numero;
 
-
+            //coomit desde visual
             while(bandera)
             {
                Console.WriteLine("Ingrese un numero: ");
@@ -57,11 +57,6 @@ namespace primos
                 }
 
             }
-
-
-
-
-
         }
     }
 }
