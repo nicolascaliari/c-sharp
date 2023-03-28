@@ -1,0 +1,15 @@
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\bin\Debug\net6.0\error_al_cubo.exe
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\bin\Debug\net6.0\error_al_cubo.deps.json
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\bin\Debug\net6.0\error_al_cubo.runtimeconfig.json
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\bin\Debug\net6.0\error_al_cubo.dll
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\bin\Debug\net6.0\error_al_cubo.pdb
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\obj\Debug\net6.0\error_al_cubo.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\obj\Debug\net6.0\error_al_cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\obj\Debug\net6.0\error_al_cubo.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\obj\Debug\net6.0\error_al_cubo.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\obj\Debug\net6.0\error_al_cubo.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\obj\Debug\net6.0\error_al_cubo.dll
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\obj\Debug\net6.0\refint\error_al_cubo.dll
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\obj\Debug\net6.0\error_al_cubo.pdb
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\obj\Debug\net6.0\error_al_cubo.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\C-sharp\error_al_cubo\obj\Debug\net6.0\ref\error_al_cubo.dll
