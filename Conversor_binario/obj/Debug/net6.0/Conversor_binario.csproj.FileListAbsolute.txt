@@ -1,0 +1,15 @@
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\obj\Debug\net6.0\Conversor_binario.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\obj\Debug\net6.0\Conversor_binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\obj\Debug\net6.0\Conversor_binario.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\obj\Debug\net6.0\Conversor_binario.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\obj\Debug\net6.0\Conversor_binario.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\bin\Debug\net6.0\Conversor_binario.exe
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\bin\Debug\net6.0\Conversor_binario.deps.json
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\bin\Debug\net6.0\Conversor_binario.runtimeconfig.json
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\bin\Debug\net6.0\Conversor_binario.dll
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\bin\Debug\net6.0\Conversor_binario.pdb
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\obj\Debug\net6.0\Conversor_binario.dll
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\obj\Debug\net6.0\refint\Conversor_binario.dll
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\obj\Debug\net6.0\Conversor_binario.pdb
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\obj\Debug\net6.0\Conversor_binario.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\C-sharp\Conversor_binario\obj\Debug\net6.0\ref\Conversor_binario.dll

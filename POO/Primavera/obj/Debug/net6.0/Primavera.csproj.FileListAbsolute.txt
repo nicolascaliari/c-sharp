@@ -1,0 +1,15 @@
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\bin\Debug\net6.0\Primavera.exe
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\bin\Debug\net6.0\Primavera.deps.json
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\bin\Debug\net6.0\Primavera.runtimeconfig.json
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\bin\Debug\net6.0\Primavera.dll
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\bin\Debug\net6.0\Primavera.pdb
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\obj\Debug\net6.0\Primavera.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\obj\Debug\net6.0\Primavera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\obj\Debug\net6.0\Primavera.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\obj\Debug\net6.0\Primavera.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\obj\Debug\net6.0\Primavera.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\obj\Debug\net6.0\Primavera.dll
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\obj\Debug\net6.0\refint\Primavera.dll
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\obj\Debug\net6.0\Primavera.pdb
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\obj\Debug\net6.0\Primavera.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\Primavera\obj\Debug\net6.0\ref\Primavera.dll

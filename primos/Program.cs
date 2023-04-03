@@ -14,7 +14,7 @@ namespace primos
             {
                Console.WriteLine("Ingrese un numero: ");
                 string input = Console.ReadLine();  
-              bool numero_ingresado =  int.TryParse(input, out numero);
+                bool numero_ingresado =  int.TryParse(input, out numero);
 
                 while(numero_ingresado == false)
                 {
@@ -46,6 +46,7 @@ namespace primos
 
                 Console.WriteLine("Desea seguir? Ingrese S para seguir/ Ingrese N para no seguir");
                 string input2 = Console.ReadLine();
+               
 
                 if(input2 == "s")
                 {

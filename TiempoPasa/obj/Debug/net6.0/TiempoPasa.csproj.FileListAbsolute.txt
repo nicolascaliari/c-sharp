@@ -1,0 +1,15 @@
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\bin\Debug\net6.0\TiempoPasa.exe
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\bin\Debug\net6.0\TiempoPasa.deps.json
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\bin\Debug\net6.0\TiempoPasa.runtimeconfig.json
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\bin\Debug\net6.0\TiempoPasa.dll
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\bin\Debug\net6.0\TiempoPasa.pdb
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\obj\Debug\net6.0\TiempoPasa.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\obj\Debug\net6.0\TiempoPasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\obj\Debug\net6.0\TiempoPasa.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\obj\Debug\net6.0\TiempoPasa.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\obj\Debug\net6.0\TiempoPasa.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\obj\Debug\net6.0\TiempoPasa.dll
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\obj\Debug\net6.0\refint\TiempoPasa.dll
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\obj\Debug\net6.0\TiempoPasa.pdb
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\obj\Debug\net6.0\TiempoPasa.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\C-sharp\TiempoPasa\obj\Debug\net6.0\ref\TiempoPasa.dll

@@ -1,0 +1,15 @@
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\bin\Debug\net6.0\Validar_rangos.exe
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\bin\Debug\net6.0\Validar_rangos.deps.json
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\bin\Debug\net6.0\Validar_rangos.runtimeconfig.json
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\bin\Debug\net6.0\Validar_rangos.dll
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\bin\Debug\net6.0\Validar_rangos.pdb
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\obj\Debug\net6.0\Validar_rangos.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\obj\Debug\net6.0\Validar_rangos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\obj\Debug\net6.0\Validar_rangos.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\obj\Debug\net6.0\Validar_rangos.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\obj\Debug\net6.0\Validar_rangos.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\obj\Debug\net6.0\Validar_rangos.dll
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\obj\Debug\net6.0\refint\Validar_rangos.dll
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\obj\Debug\net6.0\Validar_rangos.pdb
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\obj\Debug\net6.0\Validar_rangos.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\C-sharp\Validar_rangos\obj\Debug\net6.0\ref\Validar_rangos.dll

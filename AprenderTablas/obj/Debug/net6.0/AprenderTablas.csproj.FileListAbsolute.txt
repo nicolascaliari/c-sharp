@@ -1,0 +1,15 @@
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\bin\Debug\net6.0\AprenderTablas.exe
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\bin\Debug\net6.0\AprenderTablas.deps.json
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\bin\Debug\net6.0\AprenderTablas.runtimeconfig.json
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\bin\Debug\net6.0\AprenderTablas.dll
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\bin\Debug\net6.0\AprenderTablas.pdb
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\obj\Debug\net6.0\AprenderTablas.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\obj\Debug\net6.0\AprenderTablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\obj\Debug\net6.0\AprenderTablas.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\obj\Debug\net6.0\AprenderTablas.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\obj\Debug\net6.0\AprenderTablas.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\obj\Debug\net6.0\AprenderTablas.dll
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\obj\Debug\net6.0\refint\AprenderTablas.dll
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\obj\Debug\net6.0\AprenderTablas.pdb
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\obj\Debug\net6.0\AprenderTablas.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\C-sharp\AprenderTablas\obj\Debug\net6.0\ref\AprenderTablas.dll
