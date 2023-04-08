@@ -1,0 +1,15 @@
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\bin\Debug\net6.0\PruebaGeometria.exe
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\bin\Debug\net6.0\PruebaGeometria.deps.json
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\bin\Debug\net6.0\PruebaGeometria.runtimeconfig.json
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\bin\Debug\net6.0\PruebaGeometria.dll
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\bin\Debug\net6.0\PruebaGeometria.pdb
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\obj\Debug\net6.0\PruebaGeometria.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\obj\Debug\net6.0\PruebaGeometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\obj\Debug\net6.0\PruebaGeometria.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\obj\Debug\net6.0\PruebaGeometria.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\obj\Debug\net6.0\PruebaGeometria.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\obj\Debug\net6.0\PruebaGeometria.dll
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\obj\Debug\net6.0\refint\PruebaGeometria.dll
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\obj\Debug\net6.0\PruebaGeometria.pdb
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\obj\Debug\net6.0\PruebaGeometria.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\PruebaGeometria\obj\Debug\net6.0\ref\PruebaGeometria.dll

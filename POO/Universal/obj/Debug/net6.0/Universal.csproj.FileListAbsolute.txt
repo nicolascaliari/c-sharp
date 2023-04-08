@@ -1,0 +1,15 @@
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\bin\Debug\net6.0\Universal.exe
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\bin\Debug\net6.0\Universal.deps.json
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\bin\Debug\net6.0\Universal.runtimeconfig.json
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\bin\Debug\net6.0\Universal.dll
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\bin\Debug\net6.0\Universal.pdb
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\obj\Debug\net6.0\Universal.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\obj\Debug\net6.0\Universal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\obj\Debug\net6.0\Universal.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\obj\Debug\net6.0\Universal.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\obj\Debug\net6.0\Universal.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\obj\Debug\net6.0\Universal.dll
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\obj\Debug\net6.0\refint\Universal.dll
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\obj\Debug\net6.0\Universal.pdb
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\obj\Debug\net6.0\Universal.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\Universal\obj\Debug\net6.0\ref\Universal.dll

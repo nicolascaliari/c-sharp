@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cotizador/1.0.0": {
+        "dependencies": {
+          "Billetes_": "1.0.0"
+        },
+        "runtime": {
+          "Cotizador.dll": {}
+        }
+      },
+      "Billetes_/1.0.0": {
+        "runtime": {
+          "Billetes_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cotizador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Billetes_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

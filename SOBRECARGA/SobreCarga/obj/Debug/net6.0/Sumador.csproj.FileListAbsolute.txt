@@ -1,0 +1,15 @@
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\SobreCarga\bin\Debug\net6.0\Sumador.exe
+C:\Users\nicolas\Desktop\c-sharp\SOBRECARGA\SobreCarga\bin\Debug\net6.0\Sumador.deps.json
+C:\Users\nicolas\Desktop\c-sharp\SOBRECARGA\SobreCarga\bin\Debug\net6.0\Sumador.runtimeconfig.json
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\SobreCarga\bin\Debug\net6.0\Sumador.dll
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\SobreCarga\bin\Debug\net6.0\Sumador.pdb
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\SobreCarga\obj\Debug\net6.0\Sumador.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\SobreCarga\obj\Debug\net6.0\Sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\SobreCarga\obj\Debug\net6.0\Sumador.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\SobreCarga\obj\Debug\net6.0\Sumador.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\SobreCarga\obj\Debug\net6.0\Sumador.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\SobreCarga\obj\Debug\net6.0\Sumador.dll
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\SobreCarga\obj\Debug\net6.0\refint\Sumador.dll
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\SobreCarga\obj\Debug\net6.0\Sumador.pdb
+C:\Users\nicolas\Desktop\c-sharp\SOBRECARGA\SobreCarga\obj\Debug\net6.0\Sumador.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\c-sharp\SOBRECARGA\SobreCarga\obj\Debug\net6.0\ref\Sumador.dll

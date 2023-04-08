@@ -1,0 +1,15 @@
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\bin\Debug\net6.0\AutoNavegacion.exe
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\bin\Debug\net6.0\AutoNavegacion.deps.json
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\bin\Debug\net6.0\AutoNavegacion.runtimeconfig.json
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\bin\Debug\net6.0\AutoNavegacion.dll
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\bin\Debug\net6.0\AutoNavegacion.pdb
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\obj\Debug\net6.0\AutoNavegacion.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\obj\Debug\net6.0\AutoNavegacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\obj\Debug\net6.0\AutoNavegacion.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\obj\Debug\net6.0\AutoNavegacion.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\obj\Debug\net6.0\AutoNavegacion.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\obj\Debug\net6.0\AutoNavegacion.dll
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\obj\Debug\net6.0\refint\AutoNavegacion.dll
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\obj\Debug\net6.0\AutoNavegacion.pdb
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\obj\Debug\net6.0\AutoNavegacion.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\C-sharp\POO\AutoNavegacion\obj\Debug\net6.0\ref\AutoNavegacion.dll

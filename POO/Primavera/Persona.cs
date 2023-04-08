@@ -51,8 +51,21 @@ namespace Primavera
         }
 
 
-        private void CalcularEdad()
+        private int CalcularEdad()
         {
+            DateTime fecha = getNacimiento();
+
+            DateTime fechaActual = DateTime.Now;
+
+            TimeSpan diferencia = fechaActual.Subtract(fecha);
+
+            double edadEnAnios = diferencia.TotalDays / 365.25;
+
+            int edad = (int)Math.Round(edadEnAnios);
+
+            Console.WriteLine($"la edad es: {edad}");
+
+            return edad;
 
         }
 
@@ -65,13 +78,25 @@ namespace Primavera
             sb.AppendLine($"Nombre : {nombre}");
             sb.AppendLine($"Fecha de nacimiento : {fechaDeNacimiento}");
             sb.AppendLine($"Dni : {dni}");
-            
+
+            EsMayorDeEdad();
+
+
             return sb.ToString();
         }
 
         public void EsMayorDeEdad()
         {
+            int edad = CalcularEdad();
 
+            if(edad >= 18)
+            {
+                Console.WriteLine($"Es mayor de edad ({edad})");
+            }
+            else
+            {
+                Console.WriteLine($"No es mayor de edad ({edad})");
+            }
         }
     }
 }

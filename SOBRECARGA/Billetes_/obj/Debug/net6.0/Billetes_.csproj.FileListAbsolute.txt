@@ -1,0 +1,12 @@
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\Billetes_\bin\Debug\net6.0\Billetes_.deps.json
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\Billetes_\bin\Debug\net6.0\Billetes_.dll
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\Billetes_\bin\Debug\net6.0\Billetes_.pdb
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\Billetes_\obj\Debug\net6.0\Billetes_.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\Billetes_\obj\Debug\net6.0\Billetes_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\Billetes_\obj\Debug\net6.0\Billetes_.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\Billetes_\obj\Debug\net6.0\Billetes_.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\Billetes_\obj\Debug\net6.0\Billetes_.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\Billetes_\obj\Debug\net6.0\Billetes_.dll
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\Billetes_\obj\Debug\net6.0\refint\Billetes_.dll
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\Billetes_\obj\Debug\net6.0\Billetes_.pdb
+C:\Users\nicolas\Desktop\C-sharp\SOBRECARGA\Billetes_\obj\Debug\net6.0\ref\Billetes_.dll

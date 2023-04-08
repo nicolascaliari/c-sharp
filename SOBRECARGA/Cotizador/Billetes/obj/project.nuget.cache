@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "CdECplR+EbEdm9DpDXicsr6GQQ3fIMAghvIkQEzG4EBUHvgoTpk3tB4RmGvf24R6oN6VzUxy5TGPluwGQwM7jg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\nicolas\\Desktop\\C-sharp\\SOBRECARGA\\SobreCarga\\Sumador.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "No se encuentra información del proyecto para \"C:\\Users\\nicolas\\Desktop\\C-sharp\\SOBRECARGA\\Cotizador\\Cotizador.csproj\". Si está usando Visual Studio, puede deberse a que el proyecto no se haya cargado o no forme parte de la solución actual, por lo que debe ejecutar una restauración desde la línea de comandos. De lo contrario, puede que el archivo del proyecto no sea válido o que falten destinos necesarios para la restauración.",
+      "libraryId": "C:\\Users\\nicolas\\Desktop\\C-sharp\\SOBRECARGA\\Cotizador\\Cotizador.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
