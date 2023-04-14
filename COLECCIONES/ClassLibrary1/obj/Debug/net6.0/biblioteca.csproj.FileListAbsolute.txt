@@ -1,0 +1,12 @@
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ClassLibrary1\bin\Debug\net6.0\biblioteca.deps.json
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ClassLibrary1\bin\Debug\net6.0\biblioteca.dll
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ClassLibrary1\bin\Debug\net6.0\biblioteca.pdb
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ClassLibrary1\obj\Debug\net6.0\biblioteca.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ClassLibrary1\obj\Debug\net6.0\biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ClassLibrary1\obj\Debug\net6.0\biblioteca.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ClassLibrary1\obj\Debug\net6.0\biblioteca.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ClassLibrary1\obj\Debug\net6.0\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ClassLibrary1\obj\Debug\net6.0\biblioteca.dll
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ClassLibrary1\obj\Debug\net6.0\refint\biblioteca.dll
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ClassLibrary1\obj\Debug\net6.0\biblioteca.pdb
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ClassLibrary1\obj\Debug\net6.0\ref\biblioteca.dll

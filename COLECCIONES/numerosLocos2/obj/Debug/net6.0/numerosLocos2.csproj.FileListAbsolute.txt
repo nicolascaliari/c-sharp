@@ -1,0 +1,15 @@
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\bin\Debug\net6.0\numerosLocos2.exe
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\bin\Debug\net6.0\numerosLocos2.deps.json
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\bin\Debug\net6.0\numerosLocos2.runtimeconfig.json
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\bin\Debug\net6.0\numerosLocos2.dll
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\bin\Debug\net6.0\numerosLocos2.pdb
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\obj\Debug\net6.0\numerosLocos2.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\obj\Debug\net6.0\numerosLocos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\obj\Debug\net6.0\numerosLocos2.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\obj\Debug\net6.0\numerosLocos2.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\obj\Debug\net6.0\numerosLocos2.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\obj\Debug\net6.0\numerosLocos2.dll
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\obj\Debug\net6.0\refint\numerosLocos2.dll
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\obj\Debug\net6.0\numerosLocos2.pdb
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\obj\Debug\net6.0\numerosLocos2.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\C-sharp\Coleciones\numerosLocos2\obj\Debug\net6.0\ref\numerosLocos2.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConvesorBinario/1.0.0": {
+        "dependencies": {
+          "ClassLibrary4": "1.0.0"
+        },
+        "runtime": {
+          "ConvesorBinario.dll": {}
+        }
+      },
+      "ClassLibrary4/1.0.0": {
+        "runtime": {
+          "ClassLibrary4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvesorBinario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

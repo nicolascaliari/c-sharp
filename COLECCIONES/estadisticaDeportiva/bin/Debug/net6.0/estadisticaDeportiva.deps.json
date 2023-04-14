@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "estadisticaDeportiva/1.0.0": {
+        "dependencies": {
+          "biblioteca": "1.0.0"
+        },
+        "runtime": {
+          "estadisticaDeportiva.dll": {}
+        }
+      },
+      "biblioteca/1.0.0": {
+        "runtime": {
+          "biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "estadisticaDeportiva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
