@@ -8,33 +8,46 @@ namespace ClassLibrary3
 {
     public class Producto
     {
-        private string nombre;
-        private double precio;
-        private int codigo; //Este atributo se agrega en la parte TRES
-        private static int ultimoCodigo; //Este atributo se agrega en la parte TRES
-        private int cantidad; //Este atributo se agrega en la parte CINCO
 
-        static Producto()
+        private string _nombreProducto;
+        private int _precioProducto;
+        private int _codigoProducto;
+        private int _cantidadProducto;
+
+        public string NombreProducto
         {
-            ultimoCodigo = 1000; //Este codigo se ejecuta SOLO UNA VEZ y nos sirve de punto de partida
+            get { return _nombreProducto; }
+            set { _nombreProducto = value; }
         }
 
-        public Producto(string nombre, double precio)
+        public int PrecioProducto
         {
-            this.nombre = nombre;
-            this.precio = precio;
-            this.codigo = ultimoCodigo; //Esta asignacion se agrega en la parte TRES
-            ultimoCodigo++; //Este comando se ejecuta en parte TRES
+            get { return _precioProducto; }
+            set { _precioProducto = value; }
         }
 
-        public Producto(string nombre, double precio, int cantidad) : this(nombre, precio)
+        public int CodigoProducto
         {
-            this.cantidad = cantidad; //Esta sobrecarga se crea para el punto CINCO
+            get { return _codigoProducto; }
+            set { _codigoProducto = value; }
         }
 
-        public string Nombre { get => nombre; set => nombre = value; }
-        public double Precio { get => precio; set => precio = value; }
-        public int Codigo { get => codigo; }
-        public int Cantidad { get => cantidad; set => cantidad = value; }
+        public int CantidadProducto
+        {
+            get { return _cantidadProducto; }
+            set { _cantidadProducto = value; }
+        }
+
+
+
+
+        public Producto(string nombreProducto, int precioProducto, int codigoProducto, int cantidadProducto)
+        {
+            _nombreProducto = nombreProducto;
+            _precioProducto = precioProducto;
+            _codigoProducto = codigoProducto;
+            _cantidadProducto = cantidadProducto;
+        }
+    
     }
 }

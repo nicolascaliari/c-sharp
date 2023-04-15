@@ -2,97 +2,85 @@
 {
     public class Dolar
     {
-        public double Cantidad
-        {
-            get => _cantidad;
-            set => _cantidad = value;
-        }
-        private double _cantidad;
+        double cantidad;
+        static double cotzRespectoDolar;
 
 
-        //=======================
-        public static double CotzRespectoDolar
+        public double _cotzRespectoDolar
         {
-            get => _cotzRespectoDolar;
-            set => _cotzRespectoDolar = value;
+            get => cotzRespectoDolar;
+            set => cotzRespectoDolar = value;   
         }
-        private static double _cotzRespectoDolar;
 
         static Dolar()
         {
-            Dolar._cotzRespectoDolar = 1;
+            cotzRespectoDolar = 1;
         }
-
         public Dolar(double cantidad)
         {
-            _cantidad = cantidad;
+            this.cantidad = cantidad;
         }
 
-        //En resumen, las sobrecargas implícitas permiten la conversión automática entre objetos
-        //del mismo tipo, mientras que las sobrecargas explícitas permiten la conversión entre objetos
-        //de tipos diferentes, pero solo de manera explícita.
         public static explicit operator Euro(Dolar d)
         {
-            return new Euro(d._cantidad * Euro.cotzRespectoDolar);
+            return new Euro(Euro.GetCotizacion() * d.cantidad);
         }
-
         public static explicit operator Peso(Dolar d)
         {
-            return new Peso(d._cantidad * Peso.cotzRespectoDolar);
+            return new Peso(Peso.GetCotizacion() * d.cantidad);
         }
-
         public static implicit operator Dolar(double d)
         {
             return new Dolar(d);
         }
-
-        //=======================
-
-        public static bool operator !=(Dolar d, Euro e)
+        public double GetCantidad()
         {
-            return !(d._cantidad == e.cantidad);
+            return cantidad;
+        }
+        public static double GetCotizacion()
+        {
+            return cotzRespectoDolar;
         }
 
-        public static bool operator !=(Dolar d, Peso p)
+        public static Dolar operator -(Dolar d, Euro e)
         {
-            return !(d._cantidad == p.cantidad);
+            return new Dolar(d.cantidad - ((Dolar)e).cantidad);
         }
-
-
-        public static bool operator !=(Dolar d1, Dolar d2)
+        public static Dolar operator -(Dolar d, Peso p)
         {
-            return !(d1._cantidad == d2._cantidad);
+            return new Dolar(d.cantidad - ((Dolar)p).cantidad);
         }
-
-
-        //=======================================
-
-        public static bool operator ==(Dolar d, Euro e)
+        public static Dolar operator +(Dolar d, Euro e)
         {
-            return d._cantidad == e.cantidad;
+            return new Dolar(d.cantidad + ((Dolar)e).cantidad);
         }
-
+        public static Dolar operator +(Dolar d, Peso p)
+        {
+            return new Dolar(d.cantidad + ((Dolar)p).cantidad);
+        }
         public static bool operator ==(Dolar d, Peso p)
         {
-            return d._cantidad == p.cantidad;
+            return d.cantidad == p.GetCantidad();
         }
-
+        public static bool operator ==(Dolar d, Euro e)
+        {
+            return d.cantidad == (Dolar)e;
+        }
         public static bool operator ==(Dolar d1, Dolar d2)
         {
-            return d1._cantidad == d2._cantidad;
+            return d1.cantidad == d2.cantidad;
         }
-
-
-        //===========================================
-
-        //public static bool operator -(Dolar d, Euro p)
-        //{
-        //    return
-        //}
-
-        //public static bool operator -(Dolar d, Peso p)
-        //{
-        //    return
-        //}
+        public static bool operator !=(Dolar d, Peso p)
+        {
+            return !(d == p);
+        }
+        public static bool operator !=(Dolar d, Euro e)
+        {
+            return !(d == e);
+        }
+        public static bool operator !=(Dolar d1, Dolar d2)
+        {
+            return !(d1 == d2);
+        }
     }
 }

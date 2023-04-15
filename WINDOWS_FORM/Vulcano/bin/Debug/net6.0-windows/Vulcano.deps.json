@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vulcano/1.0.0": {
+        "dependencies": {
+          "Temperaturas": "1.0.0"
+        },
+        "runtime": {
+          "Vulcano.dll": {}
+        }
+      },
+      "Temperaturas/1.0.0": {
+        "runtime": {
+          "Temperaturas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vulcano/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Temperaturas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

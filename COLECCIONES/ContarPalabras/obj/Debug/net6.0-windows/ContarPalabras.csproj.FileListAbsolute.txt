@@ -1,0 +1,17 @@
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\bin\Debug\net6.0-windows\ContarPalabras.exe
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\bin\Debug\net6.0-windows\ContarPalabras.deps.json
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\bin\Debug\net6.0-windows\ContarPalabras.runtimeconfig.json
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\bin\Debug\net6.0-windows\ContarPalabras.dll
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\bin\Debug\net6.0-windows\ContarPalabras.pdb
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.Form1.resources
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.csproj.GenerateResource.cache
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.dll
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\obj\Debug\net6.0-windows\refint\ContarPalabras.dll
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.pdb
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\C-sharp\COLECCIONES\ContarPalabras\obj\Debug\net6.0-windows\ref\ContarPalabras.dll

@@ -34,5 +34,10 @@ namespace registrate
             MessageBox.Show(ingresante.Mostrar());
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

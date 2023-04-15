@@ -19,11 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary2", "..\ClassLi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EnciendanMotores", "EnciendanMotores", "{AB59A561-F6FE-4EB4-8C79-FD229A813386}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maquina_expendedora", "..\Maquina_expendedora\Maquina_expendedora.csproj", "{67F45CA3-B372-4DCA-9E04-7430DF9A9158}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maquina_expendedora", "..\Maquina_expendedora\Maquina_expendedora.csproj", "{67F45CA3-B372-4DCA-9E04-7430DF9A9158}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "maquinaExpendedora", "maquinaExpendedora", "{F70523C7-D6A2-4048-8CF3-520D02BAC5AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary3", "..\ClassLibrary3\ClassLibrary3.csproj", "{0239D5E0-5612-42BD-A634-85193974DE34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary3", "..\ClassLibrary3\ClassLibrary3.csproj", "{0239D5E0-5612-42BD-A634-85193974DE34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContarPalabras", "..\ContarPalabras\ContarPalabras.csproj", "{98845F5E-907E-464E-928C-201EC267682C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{0239D5E0-5612-42BD-A634-85193974DE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0239D5E0-5612-42BD-A634-85193974DE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0239D5E0-5612-42BD-A634-85193974DE34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98845F5E-907E-464E-928C-201EC267682C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98845F5E-907E-464E-928C-201EC267682C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98845F5E-907E-464E-928C-201EC267682C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98845F5E-907E-464E-928C-201EC267682C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

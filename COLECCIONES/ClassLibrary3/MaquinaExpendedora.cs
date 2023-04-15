@@ -1,91 +1,131 @@
-﻿//using System.Security.Cryptography.X509Certificates;
-//using System.Text;
+﻿using System.Diagnostics.Metrics;
+using System.Security.Cryptography.X509Certificates;
+using System.Text;
 
-//namespace ClassLibrary3
-//{
-//    public class MaquinaExpendedora
-//    {
-//        Stack<Producto> papasFritas = new Stack<Producto>();
-//        Stack<Producto> cocacola = new Stack<Producto>();
-//        Stack<Producto> pepsi = new Stack<Producto>();
-
-
-//        public Dictionary<int, Producto> MostrarProductos()
-//        {
-//            Dictionary<int, Producto> maquinaExpendedora = new Dictionary<int, Producto>();
+namespace ClassLibrary3
+{
+    public class MaquinaExpendedora
+    {
+        private Dictionary<int, Stack<Producto>> productos;
 
 
-//            maquinaExpendedora.Add(1, new Producto("Papas fritas",20));
-//            maquinaExpendedora.Add(2, new Producto("Doritos", 30));
-//            maquinaExpendedora.Add(3, new Producto("Chetos", 40));
-//            maquinaExpendedora.Add(4, new Producto("Fanta", 50));
-//            maquinaExpendedora.Add(5, new Producto("Sprite", 60));
-//            maquinaExpendedora.Add(6, new Producto("Coca-cola", 70));
-//            maquinaExpendedora.Add(7, new Producto("Seven-up", 10));
-//            maquinaExpendedora.Add(8, new Producto("Gomitas", 90));
+        public MaquinaExpendedora()
+        {
+            productos = new Dictionary<int, Stack<Producto>>();
+            CargarProductos();
+        }
 
 
-//            foreach (var item in maquinaExpendedora)
-//            {
-//                Console.WriteLine($"Numero id:{item.Key} y contiene: {item.Value.nombre} y su precio es: {item.Value.precio}");
-//            }
+        private void CargarProductos()
+        {
 
-//            return maquinaExpendedora;
-//        }
+            Producto papasFrita = new Producto("Papas fritas", 20, 1, 4);
+            Producto coca_cola = new Producto("Coca cola", 20, 2, 6);
+            Producto sprite = new Producto("Spirte", 20, 3, 2);
 
 
 
-//        public bool ElegirProducto()
-//        {
-//            string ingresoString = "";
-//            int ingreso = 1;
-//            bool seguir = true;
-//            StringBuilder sb = new StringBuilder();
-           
+            Stack<Producto> papasFritas = new Stack<Producto>();
+            papasFritas.Push(papasFrita);
+            papasFritas.Push(papasFrita);
+            papasFritas.Push(papasFrita);
+
+            Stack<Producto> cocaCola = new Stack<Producto>();
+            cocaCola.Push(coca_cola);
+            cocaCola.Push(coca_cola);
+            cocaCola.Push(coca_cola);
+            cocaCola.Push(coca_cola);
+            cocaCola.Push(coca_cola);
+            cocaCola.Push(coca_cola);
+
+            Stack<Producto> Gomitas = new Stack<Producto>();
+            Gomitas.Push(sprite);
+            Gomitas.Push(sprite);
+            Gomitas.Push(sprite);
+            Gomitas.Push(sprite);
+            Gomitas.Push(sprite);
 
 
+            productos.Add(1,papasFritas);
+            productos.Add(2, cocaCola);
+            productos.Add(3, Gomitas);
+            //productos.Add(4, new Producto("sprite", 40));
+            //productos.Add(5, new Producto("agua", 10));
+            //productos.Add(6, new Producto("gaseosa", 20));
+            //productos.Add(7, new Producto("cerveza", 50));
+            //productos.Add(8, new Producto("vino", 100));
+            //productos.Add(9, new Producto("coca cola light", 20));
+            //productos.Add(10, new Producto("pepsi light", 30));
 
-//            while(seguir == true)
-//            {
-//                Dictionary<int, Producto> maquina = MostrarProductos();
+        }   
 
-//                Console.WriteLine("Ingrese el producto que desea ");    
+        public void MostrarProductos()
+        {
 
-//                ingresoString = Console.ReadLine();
+            Console.WriteLine("Bienvenido a la maquina expendedora");
+            Console.WriteLine("===================================");
+            foreach (var producto in productos)
+            {
+                int posicion = producto.Key;
+                Producto productoSeleccionado = producto.Value.Peek();
+                int cantidad = producto.Value.Count;
+                Console.WriteLine($"ID: {posicion}. {productoSeleccionado.NombreProducto}. {productoSeleccionado.PrecioProducto} . Cantidad : {cantidad}");
+            }
+        }
+        
+        public bool EliminarProducto(int numeroSeleccionado)
+        {
+            if(productos.ContainsKey(numeroSeleccionado))
+            {
+                Stack<Producto> productoSeleccionado = productos[numeroSeleccionado];
+                productos.Remove(numeroSeleccionado);
 
-//                if (int.TryParse(ingresoString, out ingreso) && maquina.ContainsKey(ingreso))
-//                {
+                Console.WriteLine("Producto seleccionado: " + productoSeleccionado);
 
-//                    maquina.TryGetValue(ingreso, out Producto producto);
-
-//                    Console.WriteLine($"Compraste {producto.nombre}");
-//                    maquina.Remove(ingreso);
-
-//                    MostrarProductos();
-//                }
-//                else
-//                {
-//                    Console.WriteLine("El codigo ingresado esta mal o es invalido");    
-//                    continue;
-//                }
+                return true;
+            }
+            else
+            {
+                Console.WriteLine("El numero seleccionado no es valido");
+                return false;
+            }
+        }
 
 
+        public void EelegirProducto()
+        {
+            MostrarProductos();
 
-//              bool respuesta = Input.ValidateAnswer("Desea seguir?");
+            while(true)
+            {
+                Console.WriteLine("Seleccione un producto o para salir ingrese la letra S");
+                string seleccion = Console.ReadLine().ToUpper();
 
-//                if (respuesta)
-//                {
-//                    seguir = true;
-//                }
-//                else
-//                {
-//                    seguir = false;
-//                }
+                if(seleccion == "S")
+                {
+                    Console.WriteLine("Gracias por usar la maquina");
+                    break;
+                }
 
-                
-//            }
+                if(int.TryParse(seleccion, out int numeroSeleccionado) && productos.ContainsKey(numeroSeleccionado))
+                {
+                    productos[numeroSeleccionado].Pop();
 
-//            return true;
-//        }
-//    }
-//}
+                    if (productos[numeroSeleccionado].Count == 0)
+                    {
+                        EliminarProducto(numeroSeleccionado);
+                    }
+
+                    Console.WriteLine("Productos restantes");
+
+                    MostrarProductos();
+                }
+                else
+                {
+                    Console.WriteLine("La seleccion del producto debe ser de un numero");
+                }
+            }    
+        }
+
+    }
+}
