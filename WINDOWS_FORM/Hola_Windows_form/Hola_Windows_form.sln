@@ -17,11 +17,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cotizador_", "cotizador_", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Billetes", "..\Billetes\Billetes.csproj", "{DADD67DE-9EA8-4EAF-B607-CA3BC8F7ACEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vulcano", "..\Vulcano\Vulcano.csproj", "{14D50C87-6668-4EB8-93E8-A6FA92CEF970}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vulcano", "..\Vulcano\Vulcano.csproj", "{14D50C87-6668-4EB8-93E8-A6FA92CEF970}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vulcano_", "vulcano_", "{3746B34A-9F4E-4E34-A44B-7D3B8FB3E8A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperaturas", "..\Temperaturas\Temperaturas.csproj", "{FD538620-1120-48A3-AC10-9D1B38518235}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Temperaturas", "..\Temperaturas\Temperaturas.csproj", "{FD538620-1120-48A3-AC10-9D1B38518235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "altaJugador", "..\altaJugador\altaJugador.csproj", "{90ADDF05-7F83-40EF-BD8D-71BBA1817A34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{FD538620-1120-48A3-AC10-9D1B38518235}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD538620-1120-48A3-AC10-9D1B38518235}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD538620-1120-48A3-AC10-9D1B38518235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90ADDF05-7F83-40EF-BD8D-71BBA1817A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90ADDF05-7F83-40EF-BD8D-71BBA1817A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90ADDF05-7F83-40EF-BD8D-71BBA1817A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90ADDF05-7F83-40EF-BD8D-71BBA1817A34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

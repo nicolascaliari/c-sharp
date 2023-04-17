@@ -1,0 +1,12 @@
+C:\Users\nicolas\Desktop\c-sharp\ENCAPSULAMIENTO\AtencionAlCliente\bin\Debug\net6.0\AtencionAlCliente.deps.json
+C:\Users\nicolas\Desktop\c-sharp\ENCAPSULAMIENTO\AtencionAlCliente\bin\Debug\net6.0\AtencionAlCliente.dll
+C:\Users\nicolas\Desktop\c-sharp\ENCAPSULAMIENTO\AtencionAlCliente\bin\Debug\net6.0\AtencionAlCliente.pdb
+C:\Users\nicolas\Desktop\c-sharp\ENCAPSULAMIENTO\AtencionAlCliente\obj\Debug\net6.0\AtencionAlCliente.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\c-sharp\ENCAPSULAMIENTO\AtencionAlCliente\obj\Debug\net6.0\AtencionAlCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\c-sharp\ENCAPSULAMIENTO\AtencionAlCliente\obj\Debug\net6.0\AtencionAlCliente.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\c-sharp\ENCAPSULAMIENTO\AtencionAlCliente\obj\Debug\net6.0\AtencionAlCliente.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\c-sharp\ENCAPSULAMIENTO\AtencionAlCliente\obj\Debug\net6.0\AtencionAlCliente.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\c-sharp\ENCAPSULAMIENTO\AtencionAlCliente\obj\Debug\net6.0\AtencionAlCliente.dll
+C:\Users\nicolas\Desktop\c-sharp\ENCAPSULAMIENTO\AtencionAlCliente\obj\Debug\net6.0\refint\AtencionAlCliente.dll
+C:\Users\nicolas\Desktop\c-sharp\ENCAPSULAMIENTO\AtencionAlCliente\obj\Debug\net6.0\AtencionAlCliente.pdb
+C:\Users\nicolas\Desktop\c-sharp\ENCAPSULAMIENTO\AtencionAlCliente\obj\Debug\net6.0\ref\AtencionAlCliente.dll
