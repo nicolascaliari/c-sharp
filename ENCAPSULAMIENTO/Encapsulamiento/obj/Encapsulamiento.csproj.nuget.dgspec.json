@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicolas\\Desktop\\c-sharp\\ENCAPSULAMIENTO\\Encapsulamiento\\Encapsulamiento.csproj": {}
+    "C:\\Users\\nicolas\\Desktop\\C-sharp\\ENCAPSULAMIENTO\\Encapsulamiento\\Encapsulamiento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicolas\\Desktop\\c-sharp\\ENCAPSULAMIENTO\\AtencionAlCliente\\AtencionAlCliente.csproj": {
+    "C:\\Users\\nicolas\\Desktop\\C-sharp\\ENCAPSULAMIENTO\\AtencionAlCliente\\AtencionAlCliente.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicolas\\Desktop\\c-sharp\\ENCAPSULAMIENTO\\AtencionAlCliente\\AtencionAlCliente.csproj",
+        "projectUniqueName": "C:\\Users\\nicolas\\Desktop\\C-sharp\\ENCAPSULAMIENTO\\AtencionAlCliente\\AtencionAlCliente.csproj",
         "projectName": "AtencionAlCliente",
-        "projectPath": "C:\\Users\\nicolas\\Desktop\\c-sharp\\ENCAPSULAMIENTO\\AtencionAlCliente\\AtencionAlCliente.csproj",
+        "projectPath": "C:\\Users\\nicolas\\Desktop\\C-sharp\\ENCAPSULAMIENTO\\AtencionAlCliente\\AtencionAlCliente.csproj",
         "packagesPath": "C:\\Users\\nicolas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicolas\\Desktop\\c-sharp\\ENCAPSULAMIENTO\\AtencionAlCliente\\obj\\",
+        "outputPath": "C:\\Users\\nicolas\\Desktop\\C-sharp\\ENCAPSULAMIENTO\\AtencionAlCliente\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\nicolas\\Desktop\\c-sharp\\ENCAPSULAMIENTO\\Encapsulamiento\\Encapsulamiento.csproj": {
+    "C:\\Users\\nicolas\\Desktop\\C-sharp\\ENCAPSULAMIENTO\\Encapsulamiento\\Encapsulamiento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicolas\\Desktop\\c-sharp\\ENCAPSULAMIENTO\\Encapsulamiento\\Encapsulamiento.csproj",
+        "projectUniqueName": "C:\\Users\\nicolas\\Desktop\\C-sharp\\ENCAPSULAMIENTO\\Encapsulamiento\\Encapsulamiento.csproj",
         "projectName": "Encapsulamiento",
-        "projectPath": "C:\\Users\\nicolas\\Desktop\\c-sharp\\ENCAPSULAMIENTO\\Encapsulamiento\\Encapsulamiento.csproj",
+        "projectPath": "C:\\Users\\nicolas\\Desktop\\C-sharp\\ENCAPSULAMIENTO\\Encapsulamiento\\Encapsulamiento.csproj",
         "packagesPath": "C:\\Users\\nicolas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicolas\\Desktop\\c-sharp\\ENCAPSULAMIENTO\\Encapsulamiento\\obj\\",
+        "outputPath": "C:\\Users\\nicolas\\Desktop\\C-sharp\\ENCAPSULAMIENTO\\Encapsulamiento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\nicolas\\Desktop\\c-sharp\\ENCAPSULAMIENTO\\AtencionAlCliente\\AtencionAlCliente.csproj": {
-                "projectPath": "C:\\Users\\nicolas\\Desktop\\c-sharp\\ENCAPSULAMIENTO\\AtencionAlCliente\\AtencionAlCliente.csproj"
+              "C:\\Users\\nicolas\\Desktop\\C-sharp\\ENCAPSULAMIENTO\\AtencionAlCliente\\AtencionAlCliente.csproj": {
+                "projectPath": "C:\\Users\\nicolas\\Desktop\\C-sharp\\ENCAPSULAMIENTO\\AtencionAlCliente\\AtencionAlCliente.csproj"
               }
             }
           }

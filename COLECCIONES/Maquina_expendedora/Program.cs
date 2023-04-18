@@ -7,22 +7,8 @@ namespace Maquina_expendedora
     {
         static void Main(string[] args)
         {
-         
-
-
-           
-
             MaquinaExpendedora maquina = new MaquinaExpendedora();
-
             maquina.EelegirProducto();
-
-
-
-
-            
-            // maquina.MostrarProductos();
-          //  maquina.EliminarProducto(1);
-           // maquina.MostrarProductos();
         }
     }
 }
